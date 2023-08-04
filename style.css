@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 15px;
+    background-color: gray;
+}
+.container{
+    background-color: white;
+    width: 500px;
+    padding: 25px;
+    margin: 50px auto 0;
+    border-top: 5px solid black;
+    box-shadow: 5px 0 7px 5px rgba(0,0 ,0,0.5);
+}
+.container h2{
+    font-size: 22px;
+    line-height: 24px;
+    padding: 30px;
+    text-align: center;
+}
+.input{
+    width: 90%;
+    position: relative;
+    margin: 20px auto;
+
+}
+.user{
+    padding: 8px 11px;
+
+}
+.name{
+    width: 45%;
+    padding: 8px 0 8px 40px;
+}
+.name2{
+    width: 45%;
+    padding: 8px 0 8px 40px;
+}
+.input span{
+    margin-left:35px ;
+
+}
+.name3{
+    width: 100%;
+    padding: 8px 0 8px 40px;
+}
+.name4{
+    width: 100%;
+    padding: 8px 0 8px 40px;
+}
+.name5{
+    width: 100%;
+    padding: 8px 0 8px 40px;
+}
+.input i{
+    position: absolute;
+    font-size: 15px;
+    color: black;
+    border-right: 1px solid black;
+}
+
